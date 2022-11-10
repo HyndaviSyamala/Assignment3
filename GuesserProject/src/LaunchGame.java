@@ -2,9 +2,9 @@ import java.util.*;
 
 public class LaunchGame {
 
-	/*features added:1.Added the feature that player wanted to again
-	 * 
-	 * 
+	/*features added:1.Added the feature that player wanted to again or not
+	 * given the options to players to select the from guesser
+	 * added feature of customizing how many members of player can partcipate at a time in project
 	 */
 	public static void main(String[] args) {
 		System.out.println("Welcome to guesser game");
